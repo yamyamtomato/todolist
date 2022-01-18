@@ -6,7 +6,7 @@ import Radio from "./components/radio";
 import Select from "./components/select";
 import Slider from "./components/slider";
 
-function App() {
+const App = () => {
   const [radio, setRadio] = React.useState()
 
   const handleChangeRadio = (e) => {
