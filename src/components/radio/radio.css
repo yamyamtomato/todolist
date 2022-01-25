@@ -1,0 +1,9 @@
+/* .radioBtn {position:relative;opacity:1;}
+.radioBtn + label {position:relative;padding-left:10px;opacity:0;}
+.radioBtn + label + .radioBtn {margin-left:40px;}
+.radioBtn + label:before,
+.radioBtn + label:after {content:"";display:inline-block;position: absolute;left:-20px;top:0;
+  width:10px;height:10px;border:1px solid #000;border-radius:50%;}
+.radioBtn + label:before {width:20px;height:20px;border-color:rgb(163, 89, 206);}
+.radioBtn + label:after {left:-15px;top:5px;border-color:rgb(115, 160, 101);}
+.radioBtn:checked + label:after {left:-15px;top:5px;border-color:rgb(115, 160, 101);background: #000;} */
